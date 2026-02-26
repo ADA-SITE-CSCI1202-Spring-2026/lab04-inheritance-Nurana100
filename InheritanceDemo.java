@@ -1,4 +1,4 @@
-
+package week04;
 
 import java.util.Arrays;
 
@@ -93,4 +93,5 @@ public class InheritanceDemo {
         System.out.println("t1 equals t2: " + t1.equals(t2));
         System.out.println("t1 equals t3: " + t1.equals(t3));
     }
+
 }
